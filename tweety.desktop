@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Exec=/path/to/tweety-dir/tweety
+Name=Tweety
+Comment=Custom twitter client for linux.
+Icon=/path/to/tweety-dir/icon.svg
+Terminal=false
+Categories=Social
