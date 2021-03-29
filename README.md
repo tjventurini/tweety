@@ -21,7 +21,7 @@ docker pull nativefier/nativefier
 Now you can build the electron application using the following command.
 
 ```bash
-docker run --rm -v /path/to/tweety-repo:/src -v /tmp:/target nativefier/nativefier --icon /src/icon.png --name tweety -p linux -a x64 https://twitter.com/ /target/
+docker run --rm -v /path/to/tweety-repo:/src -v /tmp:/target nativefier/nativefier --icon /src/icon.png --name tweety -p linux -a x64 --single-instance https://twitter.com/ /target/
 ```
 
 Now you can copy the build wherever you want.
