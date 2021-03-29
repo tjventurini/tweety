@@ -4,6 +4,6 @@ Version=1.0
 Exec=/path/to/tweety-dir/tweety
 Name=Tweety
 Comment=Custom twitter client for linux.
-Icon=/path/to/tweety-dir/icon.svg
+Icon=/path/to/tweety-dir/resources/app/icon.png
 Terminal=false
 Categories=Social
